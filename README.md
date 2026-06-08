@@ -3,3 +3,7 @@
 - REPOSITÓRIO AULA 2 -> https://github.com/victorsismotto2292/aula2_godot
 
 - REPOSITÓRIO AULA 3 -> https://github.com/victorsismotto2292/aula3_godot
+
+- REPOSITÓRIO AULA 4 -> https://github.com/victorsismotto2292/aula4_godot
+
+- REPOSITÓRIO AULA 5 -> https://github.com/victorsismotto2292/aula5_godot
